@@ -10,3 +10,5 @@ My first repo - code club
 ### Links to website & social media
 
 #### Contact details
+
+adding some text in Rstudio 
